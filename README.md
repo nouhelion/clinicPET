@@ -1,14 +1,11 @@
 # clinicPET
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
+# Spring PetClinic Application 
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
 ## Running petclinic locally
 Petclinic is a https://spring.io/guides/gs/spring-boot[Spring Boot] application built using https://spring.io/guides/gs/maven/[Maven]. You can build a jar file and run it from the command line:
-
-
-
 
 You can then access petclinic here: http://localhost:8080/
 
@@ -49,7 +46,7 @@ The following items should be installed in your system:
 
 1) On the command line
 ```
-git clone https://github.com/spring-projects/spring-petclinic.git
+git clone https://github.com/nouhelion/clinicPET.git
 ```
 2) Inside Eclipse or STS
 ```
